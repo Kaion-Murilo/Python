@@ -1,0 +1,7 @@
+   produto...:gggggg
+ +valor....:555555
+
+   produto...:ffff
+ +valor....:444
+   produto...:yyyy
+ +valor....:5555

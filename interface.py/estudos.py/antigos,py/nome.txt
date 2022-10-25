@@ -1,0 +1,66 @@
+   nome....:fff
+ idade...:555
+ email...:fff33
+ obs....:rrr
+
+
+   nome....:gggggg
+ idade...:eeeeee
+ email...:fffffffff222
+ obs....:ffffffffff
+
+
+   nome....:ksioo
+ idade...:14
+ email...:kaion@cc
+ obs....:ffff
+
+
+   nome....:oi
+ idade...:11
+ email...:ddd@ddd
+ obs....:www
+
+
+   nome....:ffffffff
+ idade...:2222222
+ email...:gggggg@cv vv
+ obs....:rrrrrrg
+
+
+   nome....:ffffffff
+ idade...:2222222
+ email...:gggggg@cv vv
+ obs....:rrrrrrg
+
+
+   nome....:bbbb
+ idade...:555
+ email...:ddddd@dddd
+ obs....:rrrrrr
+
+
+   nome....:vvvv
+ idade...:33
+ email...:cccc
+ obs....:fff
+
+
+   nome....:ccccc
+ idade...:5555c
+ email...:cccc3333333sddd
+ obs....:cccc
+
+
+   nome....:ccc
+ idade...:333
+ email...:ccc3333dddd
+ obs....:ffffc
+
+
+   nome....:ddd
+ idade...:22
+ email...:
+ obs....:ddd
+
+
