@@ -1,4 +1,4 @@
-times = ("Real Madrid","Manchester United","Bayern de Munique","Barcelona","Santos","Ajax","Juventus","Peñarol","River Plate","Flamengo","Liverpool","Botafogo" ,"Benfica","Independiente","Boca Juniors","Internazionale","Arsenal F. C.","Corinthians","São Paulo","Milan")
+times = ("Real Madrid","Manchester United","Bayern de Munique","Barcelona","Santos","Ajax","Juventus","Chapecoense","River Plate","Flamengo","Liverpool","Botafogo" ,"Benfica","Independiente","Boca Juniors","Internazionale","Arsenal F. C.","Corinthians","São Paulo","Milan")
 print("-=-"*20)
 print(times[:5])
 print("-=-"*20)
@@ -9,3 +9,4 @@ print("-=-"*20)
 for c,p in enumerate(times):
     print(f"time {c+1} na posisao  {p}")
 print("-=-"*20)
+print(f"o time da chapecoense esta na possiasao {1+times.index('Chapecoense')}")
