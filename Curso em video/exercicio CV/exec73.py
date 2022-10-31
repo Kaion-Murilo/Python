@@ -1,0 +1,11 @@
+times = ("Real Madrid","Manchester United","Bayern de Munique","Barcelona","Santos","Ajax","Juventus","Peñarol","River Plate","Flamengo","Liverpool","Botafogo" ,"Benfica","Independiente","Boca Juniors","Internazionale","Arsenal F. C.","Corinthians","São Paulo","Milan")
+print("-=-"*20)
+print(times[:5])
+print("-=-"*20)
+print(times[16:])
+print("-=-"*20)
+print(sorted(times))
+print("-=-"*20)
+for c,p in enumerate(times):
+    print(f"time {c+1} na posisao  {p}")
+print("-=-"*20)
