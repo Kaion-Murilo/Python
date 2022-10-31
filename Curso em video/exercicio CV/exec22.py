@@ -1,0 +1,10 @@
+f=str(input("digiti seu nome: ")).strip()
+print("Seu nome em maisculo {} ".format(f.upper()))
+print("Seu nome em minusculo {} ".format(f.lower()))
+g=f.split()
+h=''.join(g)
+print("tanto de letras na farse {}".format(len(h)))
+print("Seu nome rem ao todo {} letras ".format(len(f)-f.count(' ')))
+
+print("letras na primeira palavra {}".format(len(g[0])))
+print("seu primeiro nome tem {} letras".format(f.find(' ')))

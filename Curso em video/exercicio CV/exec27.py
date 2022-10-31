@@ -1,0 +1,7 @@
+f=str(input("digiti: "))
+print(f.split())
+p=f.split()
+print("primeiro nimee  {}  ".format(p[0]))
+print("primeiro nimee  {}".format(p.pop()))
+print("seu primeiro nome é :".format(p[0]))
+print("seu primeiro nome é :".format(len(p)-1))
