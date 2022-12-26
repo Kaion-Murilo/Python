@@ -4,4 +4,7 @@ while num > 20 or num<0:
     print("por favor digiti um numero valido")
     num = int(input("digiti o numero:"))
 print(f"o numero por extenso de {num } e {extenso[num]}")
+y=input("se desejar sair e so digitar S: ",)
+if y =="S":
+    StopAsyncIteration
     
