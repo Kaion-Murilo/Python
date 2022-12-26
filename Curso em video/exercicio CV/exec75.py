@@ -1,17 +1,15 @@
 from operator import index
+num=(int(input("Digiti o valor:")),
+int(input("Digiti o valor:")),
+int(input("Digiti o valor:")),
+int(input("Digiti o valor:")),
+int(input("Digiti o valor:")))
 
-
-a1=int(input("Digiti o valor:"))
-a2=int(input("Digiti o valor:"))
-a3=int(input("Digiti o valor:"))
-a4=int(input("Digiti o valor:"))
-a5=int(input("Digiti o valor:"))
-num=(a1,a2,a3,a4,a5)
 print(f"O numero 9 aparecel no total de {num.count(9)} vezes")
-if num.index(3)>0:
+if 3 in num:
     print(f"O em que posicao aparecel o 3 na posicao {num.index(3)}")
 else:
-    print(f"O em que posicao aparecel o 3 na posicao {num.index(3)}")
+    print(f"O em que posicao aparecel o 3 na posicao em nenhuma")
 par=[]
 for c in range(len(num)):
     v=num[c]%2
