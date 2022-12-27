@@ -1,13 +1,13 @@
 num = []
 while True:
-    x=int(input("digiti: "))
-    print(num.count(x))
-    if num.count(x)>0:
-        print("valor existente")
+    n = int(input("digiti: "))
+    if n not in num:
+        num.append(n)
     else:
-        int(x)
-        num.append(x)
-    y=str(input("deseja continuar C ou sair=S"))
-    if y=="S":
+        print(f"valor ja existente! não vou adicionar...")
+        r=str(input("quer continuar?[S/N]"))
+    if r in "Nn":
         break
+print('-='*30)
+print(f"valores digitados {num}")
 print(sorted(num))
